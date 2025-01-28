@@ -1,0 +1,1 @@
+Notas que o players nao podem ver
