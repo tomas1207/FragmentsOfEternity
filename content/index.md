@@ -9,7 +9,7 @@ Antes de mais, um enorme agradecimento a todos aqueles que irão **jogar** ou **
 ## **🌍 O Mundo de Duskvale**  
 Duskvale é um mundo marcado pelo seu passado trágico, pelo medo dos céus e pela necessidade constante de proteger-se da destruição. Se quiseres saber mais sobre o cenário, a história e os segredos que envolvem esta campanha, começa por aqui:  
 
-🔗 [[O Mundo]]  
+🔗 [[O mundo]]
 
 ## **📜 Diretrizes para a Backstory**  
 Para garantir uma narrativa coerente e envolvente, haverá algumas **restrições nas backstories** dos personagens. Nada muito rígido, mas o suficiente para manter a imersão no universo de **Fragments of Eternity**.  

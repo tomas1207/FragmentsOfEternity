@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://tomas1207.github.io/quartz/",
+    baseUrl: "https://tomas1207.github.io/FragmentsOfEternity",
     ignorePatterns: ["private","DM notes", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
